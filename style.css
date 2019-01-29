@@ -1,0 +1,21 @@
+h1{
+    color:orange;
+}
+    
+
+    img{
+        max-width:100%;
+    }
+    
+    .Carousel{
+        margin-bottom: 50px;
+
+    }
+
+    footer{
+        background-color:orange;
+        margin-top: 50px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        color:azure;
+    }
